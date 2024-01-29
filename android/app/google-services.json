@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "116722873660",
+    "project_id": "crudfirebase-cb99a",
+    "storage_bucket": "crudfirebase-cb99a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116722873660:android:a73000fb3b8a54c7839a39",
+        "android_client_info": {
+          "package_name": "com.example.crudflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfNb9bDCFPMw-KmRAdB1EmJq-6JFS8vQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
